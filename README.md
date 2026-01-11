@@ -15,4 +15,4 @@ It is simple, easy to use, and shows which files were moved.
 ## How to Use
 1. Run the Python script:
 ```python
-python file_mover_app.py
+python App.py
